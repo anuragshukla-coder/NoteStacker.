@@ -59,15 +59,6 @@ Open index.html in your browser
 
 Start adding your notes 🎉
 
-🎯 Future Improvements
-
- Add edit/delete functionality for notes
-
- Enable search & filter options
-
- Sync with a backend (Node.js/Express + MongoDB)
-
- Add drag-and-drop card reordering
 
 🤝 Contributing
 
